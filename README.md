@@ -1,3 +1,3 @@
 # crewai_projects
 
-Crew ai projects fro learning
+Crew ai projects for learning
