@@ -1,0 +1,20 @@
+[project]
+name = "crewai-projects"
+version = "0.1.0"
+description = "Crew ai based tutorials"
+authors = [
+    {name = "Ashish265",email = "ashishgupta2692@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "crewai (>=0.175.0,<0.176.0)",
+    "numpy (>=2.3.2,<3.0.0)",
+    "pandas (>=2.3.2,<3.0.0)",
+    "jsonify (>=0.5,<0.6)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
