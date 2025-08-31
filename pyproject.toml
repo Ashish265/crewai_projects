@@ -11,7 +11,14 @@ dependencies = [
     "crewai (>=0.175.0,<0.176.0)",
     "numpy (>=2.3.2,<3.0.0)",
     "pandas (>=2.3.2,<3.0.0)",
-    "jsonify (>=0.5,<0.6)"
+    "jsonify (>=0.5,<0.6)",
+    "opencv-python (==4.8.1.78)",
+    "google-search-results (>=2.4.2,<3.0.0)",
+    "unstructured (>=0.18.14,<0.19.0)",
+    "langchain (>=0.3.27,<0.4.0)",
+    "langchain-community (>=0.3.29,<0.4.0)",
+    "dotenv (>=0.9.9,<0.10.0)",
+    "pygame (>=2.6.1,<3.0.0)"
 ]
 
 
